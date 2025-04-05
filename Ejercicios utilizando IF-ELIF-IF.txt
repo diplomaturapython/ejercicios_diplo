@@ -1,0 +1,10 @@
+Ejercicios utilizando IF-ELIF-IF
+
+1 - Solicite al usuario que ingrese un numero y realice una rutina para ver si el
+número ingresado es positivo o negativo e informar por pantalla.
+
+2 - Diseñe una calculadora básica. Solicite al usuario que ingrese dos numero, luego
+que el usuario ingrese que operación quiere realizar, según la opción de operación seleccionada
+haga la operación 
+
+ 
